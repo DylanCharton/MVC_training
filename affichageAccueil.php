@@ -1,3 +1,5 @@
+<!-- La vue affiche les informations  -->
+
 <!DOCTYPE html>
 <html>
     <head>
